@@ -2,7 +2,7 @@
     <img width="200"  src="./image/preview.png">
 </div>
 
-## macos 多开 
+## macos 多开助手
 
 支持 微信/QQ/钉钉, [Intel and M1 download](https://github.com/daodao97/DuoKai/releases)
 
