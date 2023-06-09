@@ -4,7 +4,7 @@
 
 ## macos 多开助手
 
-支持 微信/QQ/钉钉, [Intel and M1 download](https://github.com/daodao97/DuoKai/releases)
+支持 微信/QQ/钉钉, [Intel and M1/M2 download](https://github.com/daodao97/DuoKai/releases), Intel 芯片 选 amd, apple 芯片 选 arm
 
 ### Tips 
 <details>
